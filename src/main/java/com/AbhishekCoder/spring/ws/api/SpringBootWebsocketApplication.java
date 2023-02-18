@@ -1,4 +1,4 @@
-package com.javatechie.spring.ws.api;
+package com.AbhishekCoder.spring.ws.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
