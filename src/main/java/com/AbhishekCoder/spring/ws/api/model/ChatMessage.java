@@ -1,4 +1,4 @@
-package com.javatechie.spring.ws.api.model;
+package com.AbhishekCoder.spring.ws.api.model;
 
 public class ChatMessage {
 	private String content;
